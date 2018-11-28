@@ -17,3 +17,6 @@ import tmdb_scraper
 
 print "The genres for The Matrix pulled from IMDB are -",movie['genres']
 print "The genres for The Matrix pulled from TMDB are -",get_movie_genres_tmdb("The Matrix")
+
+
+
